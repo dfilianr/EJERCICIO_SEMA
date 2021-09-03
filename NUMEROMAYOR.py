@@ -6,3 +6,4 @@ for i in range (3):
         mayor= n    
 print("El numero mayor es :", mayor)     
  
+ 
